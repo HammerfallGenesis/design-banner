@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-design-banner",
+	"name": "Design Banner",
+	"description": "Add banner images to your notes!",
+	"version": "1.0.0",
+	"minAppVersion": "0.13.21",
+	"author": "HammerfallGenesis",
+	"authorUrl": "https://github.com/HammerfallGenesis",
+	"isDesktopOnly": false
+}
