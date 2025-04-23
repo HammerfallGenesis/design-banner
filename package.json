@@ -1,6 +1,6 @@
 {
   "name": "obsidian-design-banner",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "description": "Add banners to your Obsidian notes!",
   "main": "index.js",
   "scripts": {
